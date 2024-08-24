@@ -1,0 +1,5 @@
+                Github tut
+
+This is just a small practical of git.
+Performing the actions and learning the commands to push the working module fromlocal repository to github.
+
